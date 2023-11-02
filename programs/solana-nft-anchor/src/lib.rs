@@ -12,7 +12,7 @@ use mpl_token_metadata::{
     state::DataV2,
 };
 
-declare_id!("<UPDATE HERE>");
+declare_id!("6zPKTTBJwR8erg2o6XT9bEg3tHMEX2bFBEgX2jAVu4aC");
 #[program]
 pub mod solana_nft_anchor {
 
